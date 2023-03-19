@@ -6,16 +6,16 @@
 ### <div align="center">I'm Jay, a self-taught JavaScript developer</div>  
   
 
-- 🌱 Self-Taught developer specialising in Javascript and React JS  
+- 🌱 Self-Taught developer specialising in web development but enjoying what backend i get to play with
+
+- ⚡ Junior developer working daily with JavaScript, Angular, PHP, NodeJS and MySQL
+
+- 🏫 Part-time studying Computer Science at the University of Hertfordshire.  
+
+- 🚙 Just finished travelling the world with my family! [Instagram](https://www.instagram.com/around.the.world.family/)  
   
 
-- 🏫 Part-time studying Computer Science at the University of Hertfordshire  
-  
 
-- 🚙 Currently travelling Europe with my Family! [Instagram](https://www.instagram.com/around.the.world.family/)  
-  
-
-- ⚡ Currently working on MongoDB and NodeJS  
   
 
 <br/>  
