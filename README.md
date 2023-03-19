@@ -15,7 +15,7 @@
 - 🏫 Part-time studying Computer Science at the University of Hertfordshire.  
   
 
-- 🚙 Just finished travelling the world with my family! Instagram
+- 🚙 Just finished travelling the world with my family! <a href="https://www.instagram.com/around.the.world.family/"  target="_blank"> Instagram </a>
   
   
 
