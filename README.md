@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jay, Full Stack developer</div>  
   
 
-- 🌱 Self-Taught developer specialising in web development but enjoying what backend i get to play with  
+- 🌱 Self-Taught developer specialising in web development
   
 
 - ⚡ Junior developer working daily with JavaScript, Angular, PHP, NodeJS and MySQL  
