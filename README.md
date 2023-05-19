@@ -3,21 +3,24 @@
 </div>  
   
 
-### <div align="center">I'm Jay, Full Stack developer</div>  
+### <div align="center">Hi, I'm Jay, a Full Stack developer.</div>  
   
 
-- 🌱 Self-Taught developer specialising in web development
+- 🌱 I'm a self-taught developer with a focus on web development.
   
 
-- ⚡ Junior developer working daily with JavaScript, Angular, PHP, NodeJS and MySQL  
+- ⚡ Currently, I work as a Junior developer and have hands-on experience with JavaScript, Angular, PHP, NodeJS, and MySQL.
+
+- 💼 I also work as a freelance developer, taking on various projects and collaborating with clients to deliver high-quality solutions.
   
 
-- 🏫 Part-time studying Computer Science at the University of Hertfordshire.  
+- 🏫 I'm currently pursuing a part-time Computer Science degree at the University of Hertfordshire. 
   
 
-- 🚙 Just finished travelling the world with my family! <a href="https://www.instagram.com/around.the.world.family/"  target="_blank"> Instagram </a>
+- 🚙 Recently, I had an incredible adventure traveling the world with my family! You can check out our journey on <a href="https://www.instagram.com/around.the.world.family/"  target="_blank"> Instagram </a>
   
-  
+
+Let's code and create amazing things together!
 
 <br/>  
 
