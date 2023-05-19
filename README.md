@@ -11,10 +11,14 @@
 
 - ⚡ Currently, I work as a Junior developer and have hands-on experience with JavaScript, Angular, PHP, NodeJS, and MySQL.
 
-- 💼 I also work as a freelance developer, taking on various projects and collaborating with clients to deliver high-quality solutions.
-  
 
-- 🏫 I'm currently pursuing a part-time Computer Science degree at the University of Hertfordshire. 
+- 💼 I also work as a freelance developer, taking on various projects and collaborating with clients to deliver high-quality solutions.
+
+  
+- 📚 Love learning and expanding my skills and knowledge my current focus is C# and the .NET Framework
+
+
+- 🏫 Pursuing a part-time Computer Science degree at the University of Hertfordshire. 
   
 
 - 🚙 Recently, I had an incredible adventure traveling the world with my family! You can check out our journey on <a href="https://www.instagram.com/around.the.world.family/"  target="_blank"> Instagram </a>
@@ -75,9 +79,6 @@ Let's code and create amazing things together!
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jay4170&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
