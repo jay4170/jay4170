@@ -6,10 +6,10 @@
 ### <div align="center">Hi, I'm Jay, a Full Stack developer.</div>  
   
 
-- 🌱 I'm a self-taught developer with a focus on web development.
+- 🌱 I'm a developer with a focus on web development.
   
 
-- ⚡ Currently, I work as a Junior developer and have hands-on experience with JavaScript, Angular, PHP, NodeJS, and MySQL.
+- ⚡ Currently, I work as a software developer and have hands-on experience with JavaScript, Angular, PHP, NodeJS, and MySQL.
 
 
 - 💼 I also work as a freelance developer, taking on various projects and collaborating with clients to deliver high-quality solutions.
