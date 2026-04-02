@@ -1,98 +1,49 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Hi, I'm Jay Hammond
 
-### <div align="center">Hi, I'm Jay, a Full Stack developer.</div>  
-  
+Full-Stack Software Engineer with 5+ years’ experience designing, building, and scaling distributed systems. I specialise in modern JavaScript/TypeScript frameworks, Node and .NET, with a strong focus on system architecture, performance, and maintainability.
 
-- 🌱 I'm a developer with a focus on web development.
-  
+---
 
-- ⚡ Currently, I work as a software developer and have hands-on experience with JavaScript, Angular, PHP, NodeJS, and MySQL.
+## What I Do
 
+- Architect and deliver scalable microservice and microfrontend systems  
+- Build high-performance applications using TypeScript, React, Angular, Vue, Node and C# (.NET)  
+- Design type-safe APIs and distributed systems  
+- Lead refactoring and technical debt reduction initiatives  
+- Implement robust testing strategies using containerised environments  
+- Contribute to AI-driven features in production systems  
 
-- 💼 I also work as a freelance developer, taking on various projects and collaborating with clients to deliver high-quality solutions.
+---
 
-  
-- 📚 Love learning and expanding my skills and knowledge my current focus is C# and the .NET Framework
+## Tech Stack
 
+**Frontend:**  
+React · Angular · Vue · TypeScript · HTML · CSS  
 
-- 🏫 Pursuing a part-time Computer Science degree at the University of Hertfordshire. 
-  
+**Backend:**  
+C# (.NET) · Node.js · REST APIs · Hono  
 
-- 🚙 Recently, I had an incredible adventure traveling the world with my family! You can check out our journey on <a href="https://www.instagram.com/around.the.world.family/"  target="_blank"> Instagram </a>
-  
+**Cloud & DevOps:**  
+Azure · Docker · CI/CD · Infrastructure Optimisation  
 
-Let's code and create amazing things together!
+**Data:**  
+SQL Server · PostgreSQL · NoSQL  
 
-<br/>  
+---
 
+## Key Highlights
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- Led architecture for scalable distributed systems in high-security environments  
+- Reduced infrastructure costs by 30% through optimisation and automation  
+- Delivered AI-powered features including real-time transcription and reporting  
+- Drove large-scale refactoring to improve maintainability and development velocity  
+- Mentored engineers and contributed to improving team-wide engineering standards  
 
+---
 
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay4170&show_icons=true&theme=default)
 
-### Frontend  
-<div align="center">  
- <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay4170&layout=compact&theme=default)
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jay4170&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1161984665&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![GitHub Streak](https://streak-stats.demolab.com?user=jay4170&theme=default)
