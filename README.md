@@ -42,8 +42,6 @@ SQL Server · PostgreSQL · NoSQL
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay4170&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay4170&layout=compact&theme=default)
+<img src="https://github-contribution-stats.vercel.app/api/?username=jay4170&theme=radical&layout=compact" alt="Jay's GitHub Contributions" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jay4170&theme=default)
